@@ -1,0 +1,7 @@
+#game_canvas
+{
+    background-color: antiquewhite;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
